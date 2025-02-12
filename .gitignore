@@ -84,8 +84,8 @@ target/
 profile_default/
 ipython_config.py
 
-# Migrations
-**/migrations/**
+# # Migrations
+# **/migrations/**
 
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is
